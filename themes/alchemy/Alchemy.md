@@ -23,23 +23,22 @@ Describe: Sizzling chemical, acrid scent, bubbling green liquid, reducing someth
 
 You can expend a chemical that you did not create to tell a free Good Tale. 
 
-Chemicals: Black powder barrel, vial of acid, goo pud-dle, mushrooms, pool of monster blood, thick smoke.Describe: Causing a chemical reaction, adding a spark to explosives, identifying a chemical’s properties.Reactions: Explode, catch something on fire, heal some-one, blind, create a thick cloud, poison, create fireworks.
+Chemicals: Black powder barrel, vial of acid, goo pud-dle, mushrooms, pool of monster blood, thick smoke.
+Describe: Causing a chemical reaction, adding a spark to explosives, identifying a chemical’s properties.
+Reactions: Explode, catch something on fire, heal some-one, blind, create a thick cloud, poison, create fireworks.
 
 ### Flashbang
 
-You can create an incredibly bright flash and loud bang in a zone
+You can create an incredibly bright flash and loud bang in a zone. Creatures in the zone gain the condition “Blind and deaf” until the effects fade. 
 
-* *Creatures in the zone gain the condition*
-
-“Blind and deaf” until the effects fade. 
-
-Describe: Bottled sunlight, sonic crystals, volatile chem-icals, shattering a sun crystal, fireworks, a bright flare.
+Describe: Bottled sunlight, sonic crystals, volatile chemicals, shattering a sun crystal, fireworks, a bright flare.
 
 ### Healing Potion
 
 You can spend reagents to create a healing potion. Anyone who drinks it heals as if they received 1 day of uninterrupted bed rest and medical attention. Then, they gain the condition “Hungry and tired.” 
 
-Describe: A bubbling red liquid, a sweet-tasting potion, medicinal salves, brewing the potion in your lab.Reagents: Curative herbs, pure water, bottled sunlight, tree sap, crushed fruit seeds, enriched blood, sugar.
+Describe: A bubbling red liquid, a sweet-tasting potion, medicinal salves, brewing the potion in your lab. 
+Reagents: Curative herbs, pure water, bottled sunlight, tree sap, crushed fruit seeds, enriched blood, sugar.
 
 ### Inoculated
 
@@ -47,12 +46,13 @@ Gain the defense “Inoculated ☐.” Mark it when you suffer a Bad Tale relate
 
 Conditions: Disease, poison, venom, parasites, infec-tions, blood curse, forced transformations.
 
-
 ### Panacea
 
 You can spend reagents to create a panacea. Anyone who drinks it replaces all conditions related to physical ailments with “Hungry and tired.” Physical ailments include things like poisons, diseases, and curses, not wounds like broken bones or severed arteries.
 
-Describe: Distilled water so pure it washes away any-thing, drink an antitoxin, release cleansing vapors.Conditions: Disease, poison, venom, parasites, infec-tions, blood curse, forced transformations.Reagents: Distilled water, bottled cloud, soap, clear parchment pulp, spring water, a new leaf, starlight.
+Describe: Distilled water so pure it washes away any-thing, drink an antitoxin, release cleansing vapors.
+Conditions: Disease, poison, venom, parasites, infec-tions, blood curse, forced transformations. 
+Reagents: Distilled water, bottled cloud, soap, clear parchment pulp, spring water, a new leaf, starlight.
 
 ### Poisonous
 
@@ -72,19 +72,24 @@ Describe: Brewing the chemical in your lab, loading it into a delivery system, h
 
 You can adhere two things together. After about 1 minute, they’re permanently bound together. Collaborate on what dissolves the adhesive.
 
-Describe: Alchemical glue, fusing molecules together, never-melting ice, stitching together the fabric of reality.Dissolves By: Time, extreme heat or cold, a certain chemical, a magic phrase, pure distilled water, starlight.
+Describe: Alchemical glue, fusing molecules together, never-melting ice, stitching together the fabric of reality.
+Dissolves By: Time, extreme heat or cold, a certain chemical, a magic phrase, pure distilled water, starlight.
 
 ### Field Alchemy
 
 You can harvest rare reagents. When you do, the GM tells you what trait the reagent contains. You can perform alchemy to transform the reagent into an elixir. Anyone who drinks it gains that trait as a temporary trait for several minutes.
 
-Describe: Mixing chemicals in a lab, distilling essence, bubbling liquids, growing magic crystals, mad science.Reagents: Moss, monster blood, powdered monster bone, venom, mushrooms, tree sap, magic crystals.
+Describe: Mixing chemicals in a lab, distilling essence, bubbling liquids, growing magic crystals, mad science.
+Reagents: Moss, monster blood, powdered monster bone, venom, mushrooms, tree sap, magic crystals.
 
 ### Mutagen
 
 You can spend reagents to create a mutagen, which can cause any effect imaginable. Collaborate on your mutagen’s effects. For every beneficial effect your mutagen has, the GM gives it a detrimental side-effect.
 
-Describe: Brewing a bubbling potion, harnessing raw chaos, bottling a chain reaction, special lab equipment.Effects: Reduce a building to acidic sludge, transform someone into a monster, cause a HUGE explosion.Reagents: Unstable chemicals, powerful bases, caustic acids, radioactive metal flakes, mithril flakes. Side-Effects: It’s highly unstable, its radioactive, you mutate hideously, the fumes are toxic, it drains you.
+Describe: Brewing a bubbling potion, harnessing raw chaos, bottling a chain reaction, special lab equipment.
+Effects: Reduce a building to acidic sludge, transform someone into a monster, cause a HUGE explosion.
+Reagents: Unstable chemicals, powerful bases, caustic acids, radioactive metal flakes, mithril flakes. 
+Side-Effects: It’s highly unstable, its radioactive, you mutate hideously, the fumes are toxic, it drains you.
  
 
 ### Oil Slick
@@ -103,7 +108,8 @@ Describe: Changing their chemical structure, reshaping reality, turning lead int
 
 You can spend reagents to create thermite. Anyone can spend about 1 minute setting it up to activate it. Once activated, it slowly and continuously burns a one-space tunnel through absolutely anything in whatever direction the user likes for several minutes. Thermite is absolutely unstoppable until it naturally burns out.
 
-Describe: Billowing smoke, choking miasma, chemical fumes, bubbling chemicals, the acrid scent.Reagents: Metal oxide, rust flakes, copper powder, gun powder, kindling, bottled flame, lamp oil, aluminum.
+Describe: Billowing smoke, choking miasma, chemical fumes, bubbling chemicals, the acrid scent.
+Reagents: Metal oxide, rust flakes, copper powder, gun powder, kindling, bottled flame, lamp oil, aluminum.
 
 ## Interaction
 
@@ -111,19 +117,24 @@ Describe: Billowing smoke, choking miasma, chemical fumes, bubbling chemicals, t
 
 You can spend reagents to create all-cohol. Anyone who drinks so much as a sip instantly gains the condition “Drunk” and must act accordingly.
 
-Describe: Distilling the alcohol, the fermentation pro-cess, ruddy cheeks and slurred speech, how it tastes.Reagents: Yeast, barley, pure alcohol, liquor, wheat, hops, grains, distilled water, grapes, ripe fruit.
+Describe: Distilling the alcohol, the fermentation pro-cess, ruddy cheeks and slurred speech, how it tastes.
+Reagents: Yeast, barley, pure alcohol, liquor, wheat, hops, grains, distilled water, grapes, ripe fruit.
 
 ### Drug
 
 You can spend reagents to create an addictive drug. Collaborate on the drug’s properties.
 
-Administered By: Ingestion, inhaling via smoke, injec-tion, inhalation through the nose, skin contact.Describe: Growing special plants, brewing in your lab, wearing a gas mask and gloves, breaking bad.Properties: Extreme elation, hyperactivity, absolute fearlessness, itchy hives, sleeplessness, the munchies.Reagents: Herbs, roots, crushed leaves, powdered seeds, dissolved tree bark, lizard oil, swamp gas, fumes.
+Administered By: Ingestion, inhaling via smoke, injec-tion, inhalation through the nose, skin contact.
+Describe: Growing special plants, brewing in your lab, wearing a gas mask and gloves, breaking bad.
+Properties: Extreme elation, hyperactivity, absolute fearlessness, itchy hives, sleeplessness, the munchies.
+Reagents: Herbs, roots, crushed leaves, powdered seeds, dissolved tree bark, lizard oil, swamp gas, fumes.
 
 ### Love Potion
 
 You can spend reagents to create a love potion. Anyone who drinks it gains the condition “Enamored” and falls in love with the next person they see who is of a race and gender they normally find attractive. 
 
-Describe: Light and fruity pink liquid, butterflies in their stomach, distilling the essence of desire.Reagents: Butterfly wings, wine, strawberries, choco-late, hair from a virgin, sugar, sweat, spring water. 
+Describe: Light and fruity pink liquid, butterflies in their stomach, distilling the essence of desire.
+Reagents: Butterfly wings, wine, strawberries, choco-late, hair from a virgin, sugar, sweat, spring water. 
 
 ### Perfume
 
@@ -135,7 +146,8 @@ Describe: Heavenly scent, heady aroma, relaxed and pleasant feeling, euphoria, b
 
 Collaborate on a base emotion or instinct. You can emit pheromones in the air. Anyone who breathes in your pheromones gains the condition “Instinct-Driven” and experiences the selected emotion or instinct with increasing intensity.
 
-Describe: Musky scent, dilated pupils, mixing animal pheromones, working in your lab, altered biochemistry.Emotions and Instincts: Survive, reproduce, find a pack, lust, fear, rage, hunger, envy, joy, sadness.
+Describe: Musky scent, dilated pupils, mixing animal pheromones, working in your lab, altered biochemistry.
+Emotions and Instincts: Survive, reproduce, find a pack, lust, fear, rage, hunger, envy, joy, sadness.
 
 ### Snake Oil Salesman
 
