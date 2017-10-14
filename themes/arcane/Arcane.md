@@ -14,7 +14,7 @@ There are some who seek to look beyond the veil to unravel the mysteries of the 
 
 You can create a wall (max 1) of 20 spaces or less that lasts a few minutes. Shape it however you want, but don't imprison anyone. 
 
-* *Describe*:Creating a wall of force, conjuring a wall of iron, dividing reality with an impenetrable barrier.
+* *Describe*: Creating a wall of force, conjuring a wall of iron, dividing reality with an impenetrable barrier.
 
 ### Counterspell
 
@@ -72,7 +72,7 @@ You can accelerate or decelerate someone for a few minutes. Accelerated creature
 
 ## Exploration
 
-# Alter Time
+### Alter Time
 
 You can alter time. 
 
