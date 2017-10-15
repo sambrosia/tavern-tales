@@ -1,4 +1,4 @@
-# Tavern Tales Kick-Starter Edition
+# Tavern Tales Kickstarter Edition
 
 ## Themes
 * [Alchemy](themes/alchemy/Alchemy.md)
