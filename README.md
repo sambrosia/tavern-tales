@@ -6,3 +6,4 @@
 * [Artifice](themes/artifice/Artifice.md)
 * [Bardic Lore](themes/bardic_lore/Bardic_Lore.md)
 * [Beast](themes/beast/Beast.md)
+* [Command](themes/command/Command.md)
