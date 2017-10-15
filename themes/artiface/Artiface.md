@@ -1,7 +1,7 @@
 
 # Artifice
 
-Soldiers often say that the sword doesn't make the man, arguing that skill at arms is more important than strength of steel. Artificers roll their eyes at that statement-or at least, they would if they weren't too busy carving magic runes into a indestructible sword. Or setting enchanted rubies into a suit of armor that renders the wearer immune to fire. Or placing gears into a steam-powered bull large enough to level a fortress. Those who doubt the power of  craftsmanship have clearly never experienced the beauty of creation. Truly, a single act of creation can change the world. How will you leave your mark? Will you build something that world has never before seen? Will you forge a sword capable of slaying dragons? Will you construct thick city walls to protect those you love? Fire up the forges, young artisan, and prove to the gods you, too, have mastered the art of creation!
+Soldiers often say that the sword doesn't make the man, arguing that skill at arms is more important than strength of steel. Artificers roll their eyes at that statement or at least, they would if they weren't too busy carving magic runes into a indestructible sword. Or setting enchanted rubies into a suit of armor that renders the wearer immune to fire. Or placing gears into a steam-powered bull large enough to level a fortress. Those who doubt the power of  craftsmanship have clearly never experienced the beauty of creation. Truly, a single act of creation can change the world. How will you leave your mark? Will you build something that world has never before seen? Will you forge a sword capable of slaying dragons? Will you construct thick city walls to protect those you love? Fire up the forges, young artisan, and prove to the gods you, too, have mastered the art of creation!
 
 * A legendary blacksmith carves ancient runes into weapons, imbuing them with powerful magic.
 
@@ -23,13 +23,13 @@ Defenses you gain from armor and shields each grant 1 additional box.
 
 Draw a symbol next to 3 of your inventory slots. Items you place in these slots vanish from reality (but still occupy slots). No one else can access these items. Whenever you want, you can call any of these items to your person, or make them vanish again.
 
-* *Describe*: A sword appearing in your hand, summon-ing your hammer from the heavens, morphin' time. 
+* *Describe*: A sword appearing in your hand, summoning your hammer from the heavens, morphin' time. 
 
 ### Deflect
 
 At any point, you can break one of your weapons, shields, or armor worth at least 1 treasure to completely avoid a Bad Tale related to being attacked. 
 
-* *Describe*: Sparks flying when blades clash, your abla-tive armor, taking the hit with your shield.
+* *Describe*: Sparks flying when blades clash, your ablative armor, taking the hit with your shield.
 
 ### Dismantle
 
@@ -48,14 +48,14 @@ You can give a touched item 1 item trait (max 3) as a temporary trait for severa
 You can spend materials to create a war machine with half your XP. It's inert without a pilot. The pilot uses the machine's attributes instead of their own. 
 
 * *Describe*: Steam-powered gears, shining metal, smoke billowing from a furnace, blinking lights. a console.
-* *Machines*: Power armor, steam-powered catapult, sub-marine, elemental cannon, clockwork steed, spider tank.
+* *Machines*: Power armor, steam-powered catapult, submarine, elemental cannon, clockwork steed, spider tank.
 * *Materials*: Scrap metal, saw blades, shields and armor plating, rubber tubes, copper wires, gears, gizmos.
 
 ### Warhead
 
 You can spend materials to create a warhead. Once activated, it gathers power for about 1 minute and then explodes, causing massive damage out to a far distance. Only one attempt can be made to disarm it.
 
-* *Describe*: Bundle of explosives, glowing spell-bomb, an-timatter emitter, napalm tank, portable black hole.
+* *Describe*: Bundle of explosives, glowing spell-bomb, antimatter emitter, napalm tank, portable black hole.
 * *Gathers Power*: Ominous humming that grows louder, burning fuse, running hourglass, deep rumbling.
 * *Materials*: Oil, high explosives, firing pins, wire, metal casing, unstable chemicals, magic runes, gunpowder.
 
@@ -72,7 +72,7 @@ You can spend materials to create a magic item, or improve an existing item. Col
 
 You can pull yourself to a far object, or pull it to you (whichever is more logical). If you or your target is falling, you can use this instantly.
 
-* *Describe*: Launching a grappling hook, throwing a teth-er, using a web-shooter, firing a magnet gun.
+* *Describe*: Launching a grappling hook, throwing a tether, using a web-shooter, firing a magnet gun.
 
 ### Identify
 
@@ -85,13 +85,13 @@ When you examine a magic item, the GM must tell you all of its properties. Then,
 
 Your ability to fix, build, and deconstruct exceeds normal limits. Collaborate on what you're capable of doing.
 
-* *Describe*: Tinkering with gears, your expert craftsman-ship, intuitively understanding how it works.
+* *Describe*: Tinkering with gears, your expert craftsmanship, intuitively understanding how it works.
 
 ### Mobile Fortress
 
 You can spend materials to make a structure mobile. Collaborate on how it moves.
 
-* *Describe*: Steering the ship, activating a gravity revers-er, fueling the steam engine, triggering magic runes.
+* *Describe*: Steering the ship, activating a gravity reverser, fueling the steam engine, triggering magic runes.
 * *Mobility*: Floats on water, hovers a few inches off the ground, flies, rolls, teleports to a visible spot at dawn. 
 
 ### Pocket Plane
@@ -99,13 +99,13 @@ You can spend materials to make a structure mobile. Collaborate on how it moves.
 You have an extradimensional space, which is a miniature universe. Collaborate on its properties. On your turn, you can open or close a portal to it.
 
 * *Describe*: Opening a door in the air, a floating island in space, a featureless room, an empty white nothing.
-* *Properties*: Size, temperature, if there's fresh air, ap-pearance, dangers, flaws, how large the portal is.
+* *Properties*: Size, temperature, if there's fresh air, appearance, dangers, flaws, how large the portal is.
 
 ### Prosthesis
 
 You can create a prosthesis and attach it to someone. Prostheses compensate for physical disabilities and can remove permanent conditions, such as amputations. 
 
-* *Describe*: Attaching it through gruesome surgery, build-ing it in a workshop, collaborating with the recipient.Prostheses: Steam-powered arm, goggle eyepatch, go-lem leg, metal skin plates, clockwork heart.
+* *Describe*: Attaching it through gruesome surgery, building it in a workshop, collaborating with the recipient.Prostheses: Steam-powered arm, goggle eyepatch, golem leg, metal skin plates, clockwork heart.
 
 ### Tool for the Job
 
@@ -133,7 +133,7 @@ You can make someone obsessed with a visible item worth at least 1 treasure. The
 
 You can make everyone believe that an item does something specific, even if it doesn't. They cease to believe if they closely inspect the item.
 
-* *Describe*: Using words too big for anyone to under-stand, grandiose threats, cackling madly. 
+* *Describe*: Using words too big for anyone to understand, grandiose threats, cackling madly. 
 
 ### Buyer's Market
 
@@ -151,7 +151,7 @@ You can spend materials to create a communicator. Creatures with one of your com
 
 When you explain a plan that is even theoretically possible, it becomes perfectly feasible. The GM can't cite logic, physics, or difficulty as reasons to decrease your rolls to enact the plan. Also, you're bolstered to enact your plan. 
 
-* *Describe*: Cackling madly, created absurdly complicat-ed blueprints, using technobabble, showing your math.
+* *Describe*: Cackling madly, created absurdly complicated blueprints, using technobabble, showing your math.
 
 ### Don't Push that Button!
 
@@ -163,7 +163,7 @@ If you warn somebody not to do something harmless and they do it anyway, tell a 
 
 When you give someone a new or improved item, they're bolstered to use that item.
 
-* *Describe*: Use small words to explain how it works, giv-ing the right tool at the right moment, enchanting it.
+* *Describe*: Use small words to explain how it works, giving the right tool at the right moment, enchanting it.
 
 ### Spark
 
