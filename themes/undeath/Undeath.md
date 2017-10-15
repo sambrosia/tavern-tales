@@ -15,7 +15,7 @@ For some, death is only the beginning. These undead push aside the dirt and slow
 Gain the defense "Dead Nerves []." Mark it when you suffer a Bad Tale that an undead creature could ignore. If that Bad Tale gave you a condition, completely ignore all negative effects associated with that condition.
 
 * *Describe*: Ignoring a fatal wound, unnatural resilience, undead anatomy, your rotten organs.
-* *Ignore*: Your guts spilling out, carry around your de-capitated head, ignore a sword through your heart. 
+* *Ignore*: Your guts spilling out, carry around your decapitated head, ignore a sword through your heart. 
 
 ### Death Throes
  Collaborate on something powerful that happens when you die. 
@@ -28,13 +28,13 @@ Gain the defense "Dead Nerves []." Mark it when you suffer a Bad Tale that an un
 Whenever you or one of your closest allies would die, they instead hold onto life for several minutes or hours, depending on the severity of their injuries. During this time, they can be healed as normal to potentially avoid 
 death. Also, the GM must answer honestly whenever you ask how close a creature is to death. 
 
-* *Describe*: Hiding them from Death, altering their anat-omy, extending their life with necromancy.
+* *Describe*: Hiding them from Death, altering their anatomy, extending their life with necromancy.
 
 ### Drain Soul
 
 You can take a dying or recently dead creature's soul. Write it on your character sheet (max 5). Others can't interact with the soul (such as to resurrect it or communicate with it) without your consent. Also, you can forever obliterate the soul to temporarily gain some of its power. Collaborate on what that entails.
 
-* *Describe*: Soul strands rising to your clenched fist, cap-turing its spirit in a gem, devouring its essence.
+* *Describe*: Soul strands rising to your clenched fist, capturing its spirit in a gem, devouring its essence.
 * *Power*: Increase one of your stats, bolster to do what it did well, gain a temporary trait, summon its spirit.
 
 ### Plaguebearer
@@ -42,9 +42,9 @@ You can take a dying or recently dead creature's soul. Write it on your characte
 Collaborate on a disease that you carry, and how it spreads. You're immune to it. 
 
 * *Describe*: Pallid skin, sunken eyes, pus-filled boils on your skin, black blood, skin covered in a sheen of sweat.
-* *Plague*: Virus, bacteria, worm parasites, fungal mush-room spores, dark curse, the seed of a corrupted plant.
+* *Plague*: Virus, bacteria, worm parasites, fungal mushroom spores, dark curse, the seed of a corrupted plant.
 * *Symptoms*: Vomit and nausea, painful boils, extreme fever, necrosis, coughing, weakness, eventual death.
-* *Transmitted by*: Skin-to-skin contact, damaging some-one, bodily fluids, drawing a rune on their skin.
+* *Transmitted by*: Skin-to-skin contact, damaging someone, bodily fluids, drawing a rune on their skin.
 
 ### Reanimate
 
@@ -126,7 +126,7 @@ You can emit an incredibly loud sound. Far creatures gain the condition "Deaf" u
 
 You can gain some of a dead creature's knowledge and memories.
 
-* *Describe*: Eating its brains, consuming its soul, enslav-ing it in the afterlife, absorbing its brain waves.
+* *Describe*: Eating its brains, consuming its soul, enslaving it in the afterlife, absorbing its brain waves.
 
 ### Charon's Toll
 
