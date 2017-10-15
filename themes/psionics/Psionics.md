@@ -8,6 +8,8 @@ A mind is a terrible thing to waste. This is especially true when you can use yo
 
 * A powerful psychic travels from plane to plane hoping to unlock the secret of the universe.
 
+## Combat
+
 ### Archon
 
 Whenever you want, you can become completely invulnerable to all harm for a few seconds. Then, the GM gives you a condition. Archon can't make you immune to conditions you acquire through this trait.
@@ -26,8 +28,6 @@ You can give someone the condition "Confused" for several minutes. Confused crea
 You can push everyone in a zone a close distance away, or one creature a far distance away.
 
 * *Describe*: Releasing a shock wave, emitting a psi pulse, unleashing an explosion of telekinetic energy.
-
-## Combat
 
 ### Lobotomize
 

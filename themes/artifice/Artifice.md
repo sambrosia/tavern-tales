@@ -11,8 +11,6 @@ Soldiers often say that the sword doesn't make the man, arguing that skill at ar
 
 ## Combat
 
- 
-
 ### Armor Plating
 
 Defenses you gain from armor and shields each grant 1 additional box. 
