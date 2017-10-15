@@ -3,4 +3,4 @@
 ## Themes
 * [Alchemy](themes/alchemy/Alchemy.md)
 * [Arcane](themes/arcane/Arcane.md)
-* [Artiface](themes/artiface/Artiface.md)
+* [Artifice](themes/artifice/Artifice.md)
