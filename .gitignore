@@ -1,4 +1,6 @@
-1.01.TXT
+*.TXT
+*.txt
 *.csv
 *.py
 *.pyc
+*.html
