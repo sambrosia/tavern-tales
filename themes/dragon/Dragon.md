@@ -49,7 +49,7 @@ You can gather power. When you tell a Good Tale, you can release all of your gat
 
 ## Exploration
 
- ### Gem-Encrusted Hide
+### Gem-Encrusted Hide
 
 You can destroy a magic item to make it permanently part of you, as if you are now the magic item. When you're slain, the items (or at least the parts necessary to reforge them) can be recovered from your corpse.
 

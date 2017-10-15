@@ -48,7 +48,9 @@ Alcoholic drinks heal you as if they're healing potions (refer to the Alchemy th
 * *Describe*: Drinking to dull the pain, celebrating with a cold one, chugging, being a typical adventurer.
 * *Drinks*: A bottle of wine, a massive stein of ale, a flask of liquor, a line of shots, a few mixed drinks.
 
-### Steal the Spotlight Collaborate on how you charge this trait. Spend the charge to steal the GM's Bad Tale and turn it into a Good Tale.
+### Steal the Spotlight
+
+Collaborate on how you charge this trait. Spend the charge to steal the GM's Bad Tale and turn it into a Good Tale.
 
 * *Charge*: Do something unnecessarily risky, gain a crowd's attention, steal all the credit, gain a reputation.
 * *Describe*: Shouting over them, doing something dramatic, countering them in a spectacular display.
@@ -110,7 +112,9 @@ When you earn an NPC's respect and good will, write their name on your character
 
 * *Describe*: Bumping into them randomly, them saving you in the knick of time, spotting them in a crowd.
 
-### Fame and Infamy Collaborate on a reputation for yourself (it doesn't have 
+### Fame and Infamy 
+
+Collaborate on a reputation for yourself (it doesn't have 
 
 to be true). Whenever you like, others know your reputation, believe at least part of it, and act accordingly.
 
