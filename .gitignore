@@ -1,6 +1,3 @@
-*.TXT
-*.txt
-*.csv
-*.py
-*.pyc
-*.html
+node_modules
+.cache
+dist
