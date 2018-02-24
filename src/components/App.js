@@ -1,10 +1,11 @@
 import React from 'react'
+import { Provider } from 'rebass'
 import Header from './Header'
 
 const App = () => (
-  <div>
+  <Provider>
     <Header title="Tavern Tales" />
-  </div>
+  </Provider>
 )
 
 export default App
