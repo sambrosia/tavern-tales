@@ -1,9 +1,8 @@
-import { h } from 'hyperapp'
-import style from './style.scss'
+import React from 'react'
 
-const Header = ({ title }) => (
-  <header className={style.header}>
-    <h1>{title}</h1>
+const Header = props => (
+  <header>
+    <h1>{props.title}</h1>
   </header>
 )
 

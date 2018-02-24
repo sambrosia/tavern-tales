@@ -1,9 +1,9 @@
-import { h } from 'hyperapp'
+import React from 'react'
 import Header from './Header'
 
-const App = (state, actions) => (
+const App = () => (
   <div>
-    <Header title={state.title} />
+    <Header title="Tavern Tales" />
   </div>
 )
 
