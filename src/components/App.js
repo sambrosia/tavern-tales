@@ -9,7 +9,7 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    import('../traits.json').then(traits => {
+    import('../data/traits').then(traits => {
       this.setState({ traits })
     })
   }

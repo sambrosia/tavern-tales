@@ -12,6 +12,7 @@ const types = {
   traits: []
 }
 
+// Generate JSON files for our data
 for (let type in types) {
   // Populate  array
   fs.readdirSync(path(type)).forEach(fileName => {
@@ -27,12 +28,8 @@ for (let type in types) {
   })
 
   // Write our array to a JSON file
-  fs.writeFile(
-    path(`../src/${type}.json`),
-    JSON.stringify(types[type]),
-    err => {
-      if (err) throw err
-      console.log(`😺  compiled ${type}`)
-    }
-  )
+  fs.writeFile(path(`${type}/index.json`), JSON.stringify(types[type]), err => {
+    if (err) throw err
+    console.log(`😺  compiled ${type}`)
+  })
 }

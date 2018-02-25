@@ -9,7 +9,7 @@
     "start": "npm run compileData && parcel src/index.html",
     "build":
       "npm run compileData && parcel build src/index.html --public-url ./",
-    "compileData": "node data/compile.js"
+    "compileData": "node src/data/compile.js"
   },
   "dependencies": {
     "prop-types": "^15.6.0",
