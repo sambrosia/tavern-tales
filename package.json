@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "start": "npm run compileData && parcel src/index.html",
-    "build": "npm run compileData && parcel build src/index.html",
+    "build":
+      "npm run compileData && parcel build src/index.html --public-url ./",
     "compileData": "node data/compile.js"
   },
   "dependencies": {
