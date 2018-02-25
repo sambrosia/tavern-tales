@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import { Toolbar, NavLink, Tabs, Tab, Input } from 'rebass'
 
 const Header = props => (
@@ -11,6 +12,7 @@ const Header = props => (
       <Tab borderColor="white">List</Tab>
       <Tab>Cards</Tab>
     </Tabs>
+
     <Input
       bg="white"
       color="dark"
@@ -20,5 +22,9 @@ const Header = props => (
     />
   </Toolbar>
 )
+
+Header.propTypes = {
+  title: PropTypes.string
+}
 
 export default Header

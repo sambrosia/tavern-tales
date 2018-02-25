@@ -8,6 +8,7 @@
     "develop": "parcel src/index.html"
   },
   "dependencies": {
+    "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "rebass": "^2.0.0-0",
