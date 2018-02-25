@@ -2,16 +2,19 @@
   "name": "tavern-tales",
   "version": "0.0.0",
   "description": "Rules site for the Tavern Tales RPG",
-  "browserslist": ["> 1%", "last 2 versions"],
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
   "main": "src/index.js",
   "license": "MIT",
   "scripts": {
     "start": "npm run compileData && parcel src/index.html",
-    "build":
-      "npm run compileData && parcel build src/index.html --public-url ./",
+    "build": "npm run compileData && parcel build src/index.html --public-url ./",
     "compileData": "node src/data/compile.js"
   },
   "dependencies": {
+    "fuse.js": "^3.2.0",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -20,6 +23,7 @@
   },
   "devDependencies": {
     "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
     "front-matter": "^2.3.0",
