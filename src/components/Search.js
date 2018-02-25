@@ -5,12 +5,13 @@ import { Input } from 'rebass'
 
 const options = {
   shouldSort: true,
-  threshold: 0.2,
+  findAllMatches: true,
+  threshold: 0.35,
   location: 0,
-  distance: 10,
+  distance: 100,
   maxPatternLength: 32,
-  minMatchCharLength: 2,
-  keys: ['name', 'theme', 'category']
+  minMatchCharLength: 1,
+  keys: ['name', 'theme', 'category', 'html']
 }
 
 function debounce(fn, delay) {
