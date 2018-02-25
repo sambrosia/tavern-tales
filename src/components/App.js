@@ -11,6 +11,7 @@ class App extends React.Component {
 
   setTraits(traits) {
     this.setState({ traits })
+    this.setFilteredTraits(traits)
   }
 
   setFilteredTraits = filteredTraits => {
@@ -32,10 +33,7 @@ class App extends React.Component {
           setSearchResults={this.setFilteredTraits}
         />
         <Flex p={16} flexWrap="wrap">
-          {(this.state.filteredTraits.length > 0
-            ? this.state.filteredTraits
-            : this.state.traits
-          ).map(trait => (
+          {this.state.filteredTraits.map(trait => (
             <Box key={trait.name} width={[1, 1 / 2, 1 / 3, 1 / 4]}>
               <Trait.Card {...trait} />
             </Box>

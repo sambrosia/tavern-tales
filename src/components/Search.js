@@ -26,8 +26,11 @@ class Search extends React.Component {
   }
 
   search = () => {
-    const results = this.state.fuse.search(this.state.value)
-    this.props.setSearchResults(results)
+    if (!this.state.value) this.props.setSearchResults(this.props.items)
+    else {
+      const results = this.state.fuse.search(this.state.value)
+      this.props.setSearchResults(results)
+    }
   }
 
   componentWillReceiveProps(newProps) {
