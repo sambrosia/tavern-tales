@@ -16,6 +16,8 @@ const types = {
 for (let type in types) {
   // Populate  array
   fs.readdirSync(path(type)).forEach(fileName => {
+    if (!fileName.endsWith('.md')) return
+
     // Get the raw text data and parse the YML front-matter
     const file = fs.readFileSync(path(`${type}/${fileName}`), 'utf8')
     const parsed = front(file)
